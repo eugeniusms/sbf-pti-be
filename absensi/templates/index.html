@@ -1,0 +1,27 @@
+<html>
+    {% load static %}
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Daftar Peserta</title>
+        <link rel="stylesheet"  href="{% static 'index.css' %}">
+    </head>
+    <body>
+        <table>
+            <tr>
+                <td>Nama</td>
+                <td>Angkatan</td>
+                <td>Jurusan</td>
+                <td>Divisi SBF</td>
+            </tr>
+            {% for peserta in data %}
+            <tr>    
+                <td>{{ peserta.nama }}</td>
+                <td>{{ peserta.angkatan }}</td>
+                <td>{{ peserta.jurusan }}</td>
+                <td>{{ peserta.divisi_sbf }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </body>
+</html>
