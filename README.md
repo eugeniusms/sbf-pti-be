@@ -5,6 +5,9 @@ Download
 </a>
 <br>
 by https://github.com/eugeniusms
+<br>
+<br>
+✋ Wait, look at the top right corner then you see a star, click the star 🌟 to save this repository to the reading list
 
 ## Cara Menjalankan Solusi:
 1.  Salin repository ini ke komputer secara lokal<br>
