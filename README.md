@@ -3,6 +3,8 @@ Slide & Instruction Details:
 <a href="https://github.com/eugeniusms/sbf-pti-be/blob/master/slides/Django%20SBF%20PTI%202022%20-%20By%20Eugenius%20Mario.pdf" target="_blank">
 Download
 </a>
+<br>
+by https://github.com/eugeniusms
 
 ## Cara Menjalankan Solusi:
 1.  Salin repository ini ke komputer secara lokal<br>
@@ -25,4 +27,4 @@ Download
     `localhost:8000/admin`
 
 ## Selamat Belajar 😁
-Credit: Eugenius Mario Situmorang - PTI 2022
+Credit: <a href="https://github.com/eugeniusms">Eugenius Mario</a> - PTI 2022
